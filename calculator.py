@@ -3,3 +3,6 @@ b = 3
 print(a+b)
 perkalian = a*b
 print(perkalian)
+
+pengurangan = a-b
+print(pengurangan)
