@@ -4,11 +4,11 @@ print(a+b)
 pembagian = a/b
 print(pembagian)
 
+perkalian = a*b
+print(perkalian)
 pertambahan = a + b
 print(pertambahan)
 # cape lur 
-perkalian = a*b
-print(perkalian)
 
 pengurangan = a-b
 print(pengurangan)
