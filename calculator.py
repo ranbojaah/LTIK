@@ -1,5 +1,10 @@
 a = 2
-c = 3
-print(a+c)
+b = 3
+print(a+b)
 pembagian = a/b
 print(pembagian)
+
+print(a+b)
+perkalian = a*b
+print(perkalian)
+
