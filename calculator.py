@@ -4,6 +4,9 @@ print(a+b)
 pembagian = a/b
 print(pembagian)
 
+pertambahan = a + b
+print(pertambahan)
+# cape lur 
 perkalian = a*b
 print(perkalian)
 
