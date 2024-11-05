@@ -7,3 +7,5 @@ print(pembagian)
 perkalian = a*b
 print(perkalian)
 
+pengurangan = a-b
+print(pengurangan)
